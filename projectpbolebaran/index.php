@@ -18,6 +18,7 @@
         <input type="number" name="umur" required><br><br>
 
         <button type="submit">Submit</button>
+        // Halo! Ini adalah Komen.
     </form>
 
 </body>
